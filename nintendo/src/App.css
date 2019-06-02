@@ -16,6 +16,9 @@
   font-size: calc(10px + 2vmin);
   color: white;
 }
+.nintendo-container {
+  display: flex;
+}
 
 @keyframes App-logo-spin {
   from {
