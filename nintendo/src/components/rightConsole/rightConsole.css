@@ -1,0 +1,20 @@
+.right-constainer {
+  border: 2px solid #fc0d49;
+  width: 150px;
+  border-top-right-radius: 60px;
+  border-bottom-right-radius: 60px;
+  padding: 40px 15px;
+  background-color: #fc0d49;
+}
+.plus-sign {
+  display: flex;
+  justify-content: flex-start;
+  color: black;
+}
+.home-button {
+  color: black;
+  font-size: 30px;
+  margin-top: 25px;
+  display: flex;
+  justify-content: flex-start;
+}
