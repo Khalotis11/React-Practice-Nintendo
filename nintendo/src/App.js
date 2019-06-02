@@ -4,6 +4,7 @@ import "./App.css";
 
 import { LeftConsole } from "./components/leftConsole/LeftConsole";
 import { Display } from "./components/nintendoDisplay/Display";
+import { RightConsole } from "./components/rightConsole/RightConsole"
 
 function App() {
   return (
@@ -14,6 +15,7 @@ function App() {
           {" "}
           <LeftConsole />
           <Display />
+          <RightConsole />
         </div>
       </header>
     </div>

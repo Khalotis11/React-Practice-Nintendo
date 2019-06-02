@@ -1,6 +1,6 @@
 .display {
-  width: 600px;
+  width: 700px;
   border: 20px double black;
   background-color: #858a9d;
-  height: 60vmin;
+  height: 60vh;
 }
